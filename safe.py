@@ -52,7 +52,7 @@ while True:
             for i in range(0, random.randint(0, 3)):
                 print(getWord('singleline.txt', 11)[:-1])
                 complete = getWord('complete.txt', 2)
-                time.sleep(0.5)
+                time.sleep(random.random())
                 loadingCheck(check[random.randint(0, len(check)-1)], complete)
     
 
