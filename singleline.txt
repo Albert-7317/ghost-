@@ -1,0 +1,12 @@
+Locating packages
+curl https://notreallyreal.com > etc
+mkdir temp
+Init patch 64
+Initialise combat pugs
+Load local files
+Locate local files
+Include .txt/.html/.pdf
+Exclude .png/.jpg
+Begin development
+Start building
+<function createList at 0x7f353b545700>
